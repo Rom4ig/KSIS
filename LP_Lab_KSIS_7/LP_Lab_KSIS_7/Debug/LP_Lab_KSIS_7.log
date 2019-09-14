@@ -1,0 +1,20 @@
+﻿  stdafx.cpp
+c:\users\roman\desktop\3 семестр\ксис\lp_lab_ksis_7\lp_lab_ksis_7\stdafx.h(26): warning C4005: IP_DEST_NET_UNREACHABLE: изменение макроопределения
+  c:\program files (x86)\windows kits\8.1\include\um\ipexport.h(173): note: см. предыдущее определение "IP_DEST_NET_UNREACHABLE"
+c:\users\roman\desktop\3 семестр\ксис\lp_lab_ksis_7\lp_lab_ksis_7\stdafx.h(27): warning C4005: IP_DEST_HOST_UNREACHABLE: изменение макроопределения
+  c:\program files (x86)\windows kits\8.1\include\um\ipexport.h(174): note: см. предыдущее определение "IP_DEST_HOST_UNREACHABLE"
+c:\users\roman\desktop\3 семестр\ксис\lp_lab_ksis_7\lp_lab_ksis_7\stdafx.h(28): warning C4005: IP_DEST_PROT_UNREACHABLE: изменение макроопределения
+  c:\program files (x86)\windows kits\8.1\include\um\ipexport.h(175): note: см. предыдущее определение "IP_DEST_PROT_UNREACHABLE"
+c:\users\roman\desktop\3 семестр\ксис\lp_lab_ksis_7\lp_lab_ksis_7\stdafx.h(29): warning C4005: IP_DEST_PORT_UNREACHABLE: изменение макроопределения
+  c:\program files (x86)\windows kits\8.1\include\um\ipexport.h(176): note: см. предыдущее определение "IP_DEST_PORT_UNREACHABLE"
+c:\users\roman\desktop\3 семестр\ксис\lp_lab_ksis_7\lp_lab_ksis_7\stdafx.h(30): warning C4005: IP_REQ_TIMED_OUT: изменение макроопределения
+  c:\program files (x86)\windows kits\8.1\include\um\ipexport.h(181): note: см. предыдущее определение "IP_REQ_TIMED_OUT"
+c:\users\roman\desktop\3 семестр\ксис\lp_lab_ksis_7\lp_lab_ksis_7\stdafx.h(31): warning C4005: IP_BAD_REQ: изменение макроопределения
+  c:\program files (x86)\windows kits\8.1\include\um\ipexport.h(182): note: см. предыдущее определение "IP_BAD_REQ"
+c:\users\roman\desktop\3 семестр\ксис\lp_lab_ksis_7\lp_lab_ksis_7\stdafx.h(32): warning C4005: IP_BAD_ROUTE: изменение макроопределения
+  c:\program files (x86)\windows kits\8.1\include\um\ipexport.h(183): note: см. предыдущее определение "IP_BAD_ROUTE"
+c:\users\roman\desktop\3 семестр\ксис\lp_lab_ksis_7\lp_lab_ksis_7\stdafx.h(33): warning C4005: IP_TTL_EXPIRED_TRANSIT: изменение макроопределения
+  c:\program files (x86)\windows kits\8.1\include\um\ipexport.h(184): note: см. предыдущее определение "IP_TTL_EXPIRED_TRANSIT"
+  LP_Lab_KSIS_7.cpp
+  LP_Lab_KSIS_7.vcxproj -> C:\Users\Roman\Desktop\3 семестр\КСиС\LP_Lab_KSIS_7\Debug\LP_Lab_KSIS_7.exe
+  LP_Lab_KSIS_7.vcxproj -> C:\Users\Roman\Desktop\3 семестр\КСиС\LP_Lab_KSIS_7\Debug\LP_Lab_KSIS_7.pdb (Full PDB)
